@@ -25,8 +25,6 @@
 
 package EjerciciosAprendizaje.E8;
 
-import java.util.Scanner;
-
 public class Cadena {
     private String frase;
     private int longitud;

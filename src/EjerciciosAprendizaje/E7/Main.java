@@ -82,4 +82,5 @@ public class Main {
         System.out.println("Porcentaje de personas mayores es: "+ porcentajeMayorDeEdad + "%");
         System.out.println("Porcentaje de personas menores: " + porcentajeMenorDeEdad + "%");
     }
+
 }

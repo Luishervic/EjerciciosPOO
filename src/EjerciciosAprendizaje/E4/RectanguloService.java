@@ -32,5 +32,4 @@ public class RectanguloService {
             System.out.println();
         }
     }
-
 }

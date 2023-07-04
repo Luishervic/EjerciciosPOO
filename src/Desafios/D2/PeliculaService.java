@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.D2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -48,8 +48,5 @@ public class PeliculaService {
             }
         }
     }
-
-
-
 
 }

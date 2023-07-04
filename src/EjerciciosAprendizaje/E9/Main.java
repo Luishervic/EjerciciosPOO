@@ -1,7 +1,6 @@
 package EjerciciosAprendizaje.E9;
 
 import java.util.Random;
-
 public class Main {
     public static void main(String[] args) {
         //Ejercicio 9

@@ -9,4 +9,5 @@ public class Main {
         System.out.printf("Perimetro: %.2f\n", rectanguloService.calcularPerimetro(rectangulo));
         rectanguloService.dibujarRectangulo(rectangulo);
     }
+
 }

@@ -38,5 +38,4 @@ public class PersonaService {
         long edad = TimeUnit.MILLISECONDS.toDays(diferenciaMilis)/365;
         return edad < edadAComparar;
     }
-
 }

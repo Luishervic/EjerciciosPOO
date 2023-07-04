@@ -30,7 +30,6 @@ public class Cuenta {
     public Cuenta(){
 
     }
-
     public Cuenta(String nombre, String apellidoPaterno, String apellidoMaterno, int edad, int numeroDeCuenta, long DNICliente, int saldoActual) {
         this.nombre = nombre;
         this.apellidoPaterno = apellidoPaterno;

@@ -86,4 +86,5 @@ public class Cafetera {
         int miliLitros = leer.nextInt();
         cantidadActual += miliLitros;
     }
+
 }

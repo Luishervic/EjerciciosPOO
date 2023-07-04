@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.D2;
 
 import java.util.Date;
 
@@ -59,4 +59,5 @@ public class Alquiler {
                 ", precio=" + precio +
                 '}';
     }
+
 }

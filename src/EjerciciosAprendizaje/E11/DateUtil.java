@@ -43,5 +43,4 @@ public class DateUtil {
 
         System.out.println("Años de diferencia: " + aniosDiferencia);
     }
-
 }

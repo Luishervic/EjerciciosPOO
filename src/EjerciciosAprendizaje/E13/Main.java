@@ -14,4 +14,5 @@ public class Main {
         Curso quimica = curso.crearCurso();
         System.out.println(quimica.calcularGananciaSemanal());
     }
+
 }

@@ -11,4 +11,5 @@ public class Main {
         System.out.printf("Multiplicación: %d\n", operacion.multiplicacion(primeraOperacion));
         System.out.printf("Division: %.3f\n", operacion.division(primeraOperacion));
     }
+
 }

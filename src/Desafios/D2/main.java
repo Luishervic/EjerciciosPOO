@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.D2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -67,6 +67,5 @@ public class main {
         } while (opcion != 8);
         System.out.println("¡Fin del programa!");
     }
-
 }
 

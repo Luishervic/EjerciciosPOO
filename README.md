@@ -18,10 +18,10 @@ clave de la programación orientada a objetos. Algunos de los temas que se cubre
 
 ## Cómo utilizar este repositorio
 Todos los ejercicios en este repositorio son proporcionados a manera de práctica. Las soluciones que se encuentran aquí son mi 
-interpretación de los requerimientos planteados en cada enunciado. Ten en cuenta que puede haber diferentes enfoques y soluciones 
-posibles para cada ejercicio. Puedes utilizar estos ejercicios y sus soluciones como referencia y guía mientras trabajas en tus propias
-soluciones. Cada paquete incluye una carpeta con el numero del problema y en este un archivo Main que tienes que correr para ver la 
-solución funcionando, en algunos además se añade un archivo service para alojar metodos extra, ejemplo:
+interpretación de los requerimientos planteados en cada enunciado **(se encuentran en el archivo de la clase principal)**. Ten en cuenta que puede haber diferentes 
+enfoques y soluciones posibles para cada ejercicio. Puedes utilizar estos ejercicios y sus soluciones como referencia y guía mientras 
+trabajas en tus propias soluciones. Cada paquete incluye una carpeta con el numero del problema y en este un archivo Main que tienes 
+que correr para ver la solución funcionando, en algunos además se añade un archivo service para alojar metodos extra, ejemplo:
 
 La carpeta E7 contiene:
 
@@ -33,16 +33,16 @@ este archivo para adaptarlo a tus necesidades específicas y agregar código adi
 
 - *Persona.java*
 
-El archivo Persona.java define la clase Persona, que representa a una persona en el sistema. Esta clase contiene atributos
+En el archivo Persona.java se define el enunciado del problema y la clase Persona, que representa a una persona en el sistema. Esta clase contiene atributos
 como nombre, edad, género, etc., y métodos para acceder y modificar estos atributos.
 
 - *PersonaService.java*
 
 El archivo PersonaService.java contiene la implementación de la clase PersonaService, que proporciona diferentes servicios
-relacionados con las personas. Esta clase puede incluir métodos para agregar una persona nueva, entre otros. 
+relacionados con las personas. Esta clase incluye métodos para agregar una persona nueva, comprobar su edad, entre otros. 
 La clase PersonaService actúa como un controlador o administrador de las operaciones relacionadas con las personas en el programa.
 
 ![Perro con computador](https://github.com/Luishervic/EjerciciosPOO/assets/83683548/87a744c0-f191-42a6-aefc-dbb290125c97)
 
-Recuerda que la práctica constante es fundamental para desarrollar habilidades sólidas en programación orientada a objetos.
+La práctica constante es fundamental para desarrollar habilidades sólidas en programación orientada a objetos.
 :)

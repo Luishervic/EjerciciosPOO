@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.D2;
 
 public class Pelicula {
     private String titulo;
@@ -57,4 +57,5 @@ public class Pelicula {
                 ", duracion=" + duracion +
                 '}';
     }
+
 }

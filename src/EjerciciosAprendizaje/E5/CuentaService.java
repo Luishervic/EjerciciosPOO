@@ -59,5 +59,4 @@ public class CuentaService {
     public String consultarDatos(Cuenta cuenta){
         return cuenta.toString();
     }
-
 }

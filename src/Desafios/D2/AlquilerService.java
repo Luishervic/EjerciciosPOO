@@ -1,4 +1,4 @@
-package Desafios;
+package Desafios.D2;
 
 
 import java.text.ParseException;
@@ -89,7 +89,5 @@ public class AlquilerService {
         }
 
     }
-
-
 
 }

@@ -1,7 +1,6 @@
 package EjerciciosAprendizaje.E8;
 
 public class CadenaService {
-
     public Cadena crearCadena(){
         return new Cadena();
     }

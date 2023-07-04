@@ -91,4 +91,5 @@ public class Operacion {
             return (float) numeros.getNumero1() /numeros.getNumero2();
         }
     }
+
 }

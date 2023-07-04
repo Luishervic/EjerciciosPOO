@@ -1,5 +1,4 @@
 /*
-
     Crear una clase Rectángulo que modele rectángulos por medio de un atributo privado
     base y un atributo privado altura. La clase incluirá un método para crear el rectángulo
     con los datos del Rectángulo dados por el usuario. También incluirá un método para
